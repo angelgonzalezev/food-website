@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/food-website/static/css/main.35ee7a1c.css",
+    "main.js": "/food-website/static/js/main.1b75110b.js",
+    "static/media/card2.jpg": "/food-website/static/media/card2.772d2168777a84534dd0.jpg",
+    "static/media/card1.jpg": "/food-website/static/media/card1.89903477dfb2e7dfd3f6.jpg",
+    "static/media/card3.jpg": "/food-website/static/media/card3.5799a548a6c3f7871fd1.jpg",
+    "static/media/hero-food.jpg": "/food-website/static/media/hero-food.4060b983348f1fc9df59.jpg",
+    "index.html": "/food-website/index.html",
+    "main.35ee7a1c.css.map": "/food-website/static/css/main.35ee7a1c.css.map",
+    "main.1b75110b.js.map": "/food-website/static/js/main.1b75110b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ee7a1c.css",
+    "static/js/main.1b75110b.js"
+  ]
+}
