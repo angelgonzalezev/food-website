@@ -1,4 +1,4 @@
-# GPT-3 Landing page.
+# Food Delivery Landing page.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/27366182/211097387-2ca2e26b-70c2-4f2f-a66a-6e197417871e.png" width="400">
